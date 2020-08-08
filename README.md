@@ -1,1 +1,1 @@
-# Machine Learning Algorithms with MNIST dataset
+# Machine_Learning_MNIST_Dataset
